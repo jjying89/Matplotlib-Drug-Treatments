@@ -6,6 +6,7 @@ Some of the results below:
 
 <img src="Images/boxplot.PNG" width="600">
 
-![](Images/mouse_s185.PNG)
+<img src="Images/mouse_s185.PNG" width="600">
 
-![](Images/linear_regression.PNG)
+<img src="Images/linear_regression.PNG" width="600">
+
