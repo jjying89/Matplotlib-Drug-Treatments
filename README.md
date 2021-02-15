@@ -4,7 +4,7 @@ The goal of this challenge is to analyze the data and results of different drug 
 
 Some of the results below:
 
-<img src="Images/boxplot.PNG>
+<img src="Images/boxplot.PNG">
 
 ![](Images/mouse_s185.PNG)
 
