@@ -4,8 +4,8 @@ The goal of this challenge is to analyze the data and results of different drug 
 
 Some of the results below:
 
-![Boxplot](Images/boxplot.png)
+<img src="Images/boxplot.png>
 
-![Mouse_s185](Images/mouse_s185.png)
+![](Images/mouse_s185.png)
 
-![linear_regression](Images/linear_regression.png)
+![](Images/linear_regression.png)
