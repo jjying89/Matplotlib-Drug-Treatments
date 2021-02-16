@@ -1,6 +1,6 @@
 # mathplotlib
 
-The goal of this challenge is to analyze the data and results of different drug treatments on mice.
+The goal of this challenge is to analyze pharmaceutical data and results of different drug treatments on cancer in mice.
 
 Some of the results below:
 
