@@ -8,7 +8,7 @@
 
 -Pharmaceutical data and results of different drug treatments on cancer in mice.
 
-Some of the results below:
+-Some of the results below:
 
 <img src="Images/boxplot.PNG" width="600">
 
